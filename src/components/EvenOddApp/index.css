@@ -1,0 +1,35 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #ffffff;
+  padding: 40px;
+  display: flex;
+  justify-content: center;
+}
+.count-container {
+  background-image: linear-gradient(#ff6e7f, #bfe9ff);
+  height: 60vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  margin: 30px;
+  padding: 20px;
+  font-family: roboto;
+}
+.heading {
+  color: #0f172a;
+  font-size: 30px;
+}
+.description {
+  color: #1e293b;
+}
+.button {
+  padding: 10px;
+  border-radius: 10px;
+  border-style: none;
+  background-color: #ffffff;
+}
+.caption {
+  color: #334155;
+}
